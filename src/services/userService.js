@@ -13,3 +13,4 @@ function emailExiste(email, database = userDB) {
 module.exports = { usuarioExiste, emailExiste }
 
 // teste lais
+// Realize um commit direto no tronco principal (master/main) sem criar uma branch.
