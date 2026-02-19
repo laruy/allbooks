@@ -11,3 +11,5 @@ function emailExiste(email, database = userDB) {
 
 
 module.exports = { usuarioExiste, emailExiste }
+
+// teste lais
